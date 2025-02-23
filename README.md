@@ -14,7 +14,7 @@ This project implements a content-based movie recommendation system using TF-IDF
 
 # Dataset
 3. Download the dataset and and place it in the project direcotry. That is the file lumaa.py and movies_metadata.csv should be in the same folder.
-   For example -Downloads  &nbsp;
+   For example -Downloads  
 &nbsp;&nbsp;&nbsp;-lumaa  
 &nbsp;&nbsp;&nbsp;&nbsp;-lumaa.py  
 &nbsp;&nbsp;&nbsp;&nbsp;-movies_metadata.csv  
