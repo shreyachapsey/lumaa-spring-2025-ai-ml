@@ -2,11 +2,11 @@
 This project implements a content-based movie recommendation system using TF-IDF vectorization and K-Nearest Neighbors (KNN) to suggest movies based on user input. The system processes movie descriptions, genres, and languages to find the best matches.
 
 # Setup
-1. Install dependencies:  
-pip install pandas numpy nltk scikit-learn
+1. Install dependencies:    
+`pip install pandas numpy nltk scikit-learn`
 
 # Download NLTK resources:
-2. Run the following inside a Python script:
+2. Run the following inside a Python script:  
 `import nltk`  
 `nltk.download('punkt')`  
 `nltk.download('stopwords')`  
@@ -14,11 +14,16 @@ pip install pandas numpy nltk scikit-learn
 
 # Dataset
 3. Download the dataset and and place it in the project direcotry. That is the file lumaa.py and movies_metadata.csv should be in the same folder.
-4. Change the file path in line 146 of the code to the file path of movies_metadata.csv.
+   For example -Downloads
+                  -lumaa  
+                     -lumaa.py  
+                     -movies_metadata.csv  
 
 # Running the program
-5. Run the script using the following command:  
-   `python lumaa.ipynb`
+5. In the terminal, go to the directory where both the files are saved and run the following command:  
+   `python lumaa.ipynb`  
+Alternatively, you could also run it as a jupyter notebook. For this you will need to upload the CSV file and change the file path in line 146.
+(You can refer to the vide. Both these methods are shown there)
 
 # Input
 6. You will be asked to describe the type of movies you like (e.g., "action thriller in English"). The system will then process your input and return the top movie recommendations.
