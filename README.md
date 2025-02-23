@@ -2,7 +2,7 @@
 This project implements a content-based movie recommendation system using TF-IDF vectorization and K-Nearest Neighbors (KNN) to suggest movies based on user input. The system processes movie descriptions, genres, and languages to find the best matches.
 
 # Setup
-1. Install dependencies:
+1. Install dependencies:  
 pip install pandas numpy nltk scikit-learn
 
 # Download NLTK resources:
