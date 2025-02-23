@@ -13,7 +13,7 @@ This project implements a content-based movie recommendation system using TF-IDF
 `nltk.download('wordnet')`  
 
 # Dataset
-3. Download the dataset and and place it in the project direcotry. That is the file lumaa.py and movies_metadata.csv should be in the same folder.
+3. Download the dataset file, unzip it and and place it in the project direcotry. That is the file lumaa.py and movies_metadata.csv should be in the same folder.
    For example  
    -Downloads  
 &nbsp;&nbsp;&nbsp;-lumaa  
