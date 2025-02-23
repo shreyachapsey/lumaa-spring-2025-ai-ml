@@ -30,7 +30,9 @@ Alternatively, you could also run it as a jupyter notebook. For this you will ne
 # Input
 6. You will be asked to describe the type of movies you like (e.g., "action thriller in English"). The system will then process your input and return the top movie recommendations.
 For example: 
-![image](https://github.com/user-attachments/assets/c515b00a-02cd-42ca-8b9e-f788b1f0d459)
+![image](https://github.com/user-attachments/assets/c515b00a-02cd-42ca-8b9e-f788b1f0d459)  
+
+Salary expectation per month: $20-30/hr 
 
 
 
