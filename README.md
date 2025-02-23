@@ -1,11 +1,11 @@
-Movie Recommendation System
+#Movie Recommendation System
 This project implements a content-based movie recommendation system using TF-IDF vectorization and K-Nearest Neighbors (KNN) to suggest movies based on user input. The system processes movie descriptions, genres, and languages to find the best matches.
 
-Setup
+#Setup
 Install dependencies:
 pip install pandas numpy nltk scikit-learn
 
-Download NLTK resources:
+#Download NLTK resources:
 Run the following inside a Python script or Jupyter Notebook:
 import nltk
 nltk.download('punkt')
