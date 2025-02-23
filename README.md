@@ -6,21 +6,22 @@ This project implements a content-based movie recommendation system using TF-IDF
 pip install pandas numpy nltk scikit-learn
 
 # Download NLTK resources:
-2. Run the following inside a Python script or Jupyter Notebook:
+2. Run the following inside a Python script:
 `import nltk`  
 `nltk.download('punkt')`  
 `nltk.download('stopwords')`  
 `nltk.download('wordnet')`  
 
 # Dataset
-3. Download the dataset and and place it in the project direcotry.
+3. Download the dataset and and place it in the project direcotry. That is the file lumaa.py and movies_metadata.csv should be in the same folder.
+4. Change the file path in line 146 of the code to the file path of movies_metadata.csv.
 
 # Running the program
-4. Run the script and enter a movie preference when prompted:  
-   `jupyter notebook lumaa.ipynb`
+5. Run the script using the following command:  
+   `python lumaa.ipynb`
 
 # Input
-5. You will be asked to describe the type of movies you like (e.g., "action thriller in English"). The system will then process your input and return the top movie recommendations.
+6. You will be asked to describe the type of movies you like (e.g., "action thriller in English"). The system will then process your input and return the top movie recommendations.
 For example: 
 ![image](https://github.com/user-attachments/assets/c515b00a-02cd-42ca-8b9e-f788b1f0d459)
 
