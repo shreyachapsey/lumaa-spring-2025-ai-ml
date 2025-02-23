@@ -17,8 +17,8 @@ This project implements a content-based movie recommendation system using TF-IDF
    For example  
    -Downloads  
 &nbsp;&nbsp;&nbsp;-lumaa  
-&nbsp;&nbsp;&nbsp;&nbsp;-lumaa.py  
-&nbsp;&nbsp;&nbsp;&nbsp;-movies_metadata.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lumaa.py  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-movies_metadata.csv  
 
 # Running the program
 5. In the terminal, go to the directory where both the files are saved and run the following command:  
