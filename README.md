@@ -8,16 +8,16 @@ pip install pandas numpy nltk scikit-learn
 # Download NLTK resources:
 2. Run the following inside a Python script or Jupyter Notebook:
 `import nltk`
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
+'nltk.download('punkt')'
+'nltk.download('stopwords')'
+'nltk.download('wordnet')'
 
 # Dataset
 3. Download the dataset and and place it in the project direcotry.
 
 # Running the program
 4. Run the script and enter a movie preference when prompted:
-   jupyter notebook lumaa.ipynb
+   'jupyter notebook lumaa.ipynb'
 
 # Input
 5. You will be asked to describe the type of movies you like (e.g., "action thriller in English"). The system will then process your input and return the top movie recommendations.
